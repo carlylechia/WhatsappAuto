@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist
+.env
+coverage
+error_*
+package-lock.json
+user_data
+phone_numbers.txt
+valid_numbers.json
